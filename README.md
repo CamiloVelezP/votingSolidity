@@ -1,4 +1,4 @@
-#Ejemplo de votacion en solidity
+# Ejemplo de votacion en solidity
 
 
 El en este git podremos encontrar el codigo del contrato de votacion.
@@ -10,9 +10,9 @@ Este esta desplegado en la red de pruebas de sepolia en el siguiente enlace: htt
 si se desea probar se puede tomar el codigo definido en solidity llamado "voting.sol" y ponerlo en la IDE remix compilarlo con la version 0.8.13 y desplegarlo usando una de las wallets de prueba.
 
 
-##Funciones principales 
+## Funciones principales 
 
 
-*Constructor:* En este se inicializan algunas variables del contrato, el dueño del contrato (que es simplemente quien despliega el contrato) y los tiempos de duracion de la votacion siendo el inicial el timestamp del momento en el que se despliega el contrato y el final sera exactamente 3 dias después.
+**Constructor:** En este se inicializan algunas variables del contrato, el dueño del contrato (que es simplemente quien despliega el contrato) y los tiempos de duracion de la votacion siendo el inicial el timestamp del momento en el que se despliega el contrato y el final sera exactamente 3 dias después.
 
 
